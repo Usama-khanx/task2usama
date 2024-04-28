@@ -1,0 +1,76 @@
+body{
+
+background-image: url("./images/my3.webp");
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+a{
+    text-decoration: none;
+    color: white;
+    float: right;
+    
+    padding: 25px;
+   
+    
+    
+    
+}
+#bedrome{
+    text-decoration: underline;
+    text-decoration-color: #14a620;
+   
+}
+.navigation{
+    
+}
+img{
+    width: 80px;
+   margin-top: 10px;
+    margin-left: 90px;
+}
+.main-contant{
+
+/* border: 3px solid white; */
+clear: both;
+width: 100vw;
+height: 50vh;
+margin-top: 10%;
+
+}
+#h1style{
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+#p1-style{
+    color: white;
+    text-align: center;
+    font-size: larger;
+    text-transform: capitalize;
+}
+
+
+.btn-class{
+    color: white;
+    text-align: center;
+    
+}
+#btn1{
+    color: white;
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: #14a620;
+    
+    width:250px;
+    height: 50px;
+}
+#btn2{
+    color: white;
+    border: 2px solid #14a620;
+    border-radius: 50px;
+    background-color: #2a2929;
+    width:250px;
+    height: 50px;
+}
